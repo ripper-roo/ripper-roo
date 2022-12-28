@@ -12,7 +12,7 @@
 
 - 💞️ I am a Cybersecurity enthusiast.
 - 🌱 I also joy working with Computer Networking.
-- 👀 In the mean time, I do game modding and web development.
+- 👀 In my free time, I do game modding and web development.
 
 ---
 
