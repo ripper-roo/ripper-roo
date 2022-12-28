@@ -3,17 +3,30 @@
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				.container {
-					background-color: grey;
-					color: green;
+					background-color: #303030;
+					color: #2ecc00;
 
-					border-radius: 5em;
+					border-radius: 1em;
+					border-style: dashed;
+
+					padding: 0.5em;
+				}
+
+				h1 {
+					padding: 0;
+					margin: 0;
+				}
+
+				.icon {
+					margin: 0 1em 0 1em;
 				}
 			</style>
 
 			<div class="container">
-				<h1>&#x1F919; Hi, I'm Samuel!</h1>
+				<h1> <span class="icon">&#x1F919;</span> Hi, I'm Samuel!</h1>
 			</div>
-			<p>Click to see the source</p>
+			<p>Welcome to my profile!</p>
+			<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" display="inline"/>
 		</div>
 	</foreignObject>
 </svg>
